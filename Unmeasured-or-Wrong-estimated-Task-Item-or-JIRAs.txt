@@ -1,0 +1,13 @@
+If Task management is very inefficient, and there's no way to calculate the weight of a task (By Team assessment)
+and by instance estimates are given by the certain individual (which he can over-estimate and put a lot of buffer to make it look complicated)
+
+
+This inefficiency is prone to hoarding/cherry-picking. (Hoarding of easy tasks, and avoidance of much more complicated task) if we rely only on the number of task accomplished.
+
+PROs:
+
+DEVs who gets the easy tasks will have an easier time, looks good on paper , and more time to slack
+
+CONS:
+
+DEVs who have the much complicated task, will have a tough time, and will look bad on papers.
