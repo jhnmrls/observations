@@ -1,0 +1,17 @@
+In the case of lacking a sufficient DEV test environment
+
+Eq. Local -> Test Environment -> UAT Environment -> PROD
+
+Lack of test environment blocks progress
+
+My case is a company that doesn't have a way to test the software we're using in Local Machine because there's a lot of dependency and integration.
+
+A Test Environment that is unmaintained because there was no guidance to the Junior Developers , they just deploy directly to the UAT environment and makes it their playground.
+
+so we're left with a UAT and PROD environment.
+
+If there's an ongoing UAT, and the task you're working on got a conflict, you're blocked.
+
+
+PROs: Time to slack for the developers
+CONs: To finish a Task takes forever.  (1 day becomes = 2 weeks)
